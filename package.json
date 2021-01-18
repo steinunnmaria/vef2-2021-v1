@@ -1,0 +1,19 @@
+{
+  "name": "vef2-2021-v1",
+  "version": "1.0.0",
+  "description": "[Kynning í fyrirlestri](https://youtu.be/pCEHnurbuCU).",
+  "main": ".eslintrc.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/steinunnmaria/vef2-2021-v1.git"
+  },
+  "author": "Steinunn",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/steinunnmaria/vef2-2021-v1/issues"
+  },
+  "homepage": "https://github.com/steinunnmaria/vef2-2021-v1#readme"
+}
